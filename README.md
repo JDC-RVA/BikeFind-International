@@ -1,6 +1,6 @@
 # BikeFind International
 
-This is web application that will help user find City Bike Station all over the world!
+This is a web application that will help user find City Bike Station all over the world!
 
 APIs used:
 * Mapbox
